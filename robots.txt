@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adam-rybar.github.io/sitemap.xml
